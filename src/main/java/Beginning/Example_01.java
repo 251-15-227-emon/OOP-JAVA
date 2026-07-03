@@ -24,13 +24,13 @@ class Teacher {
 }
 
 public class Example_01 {
+
     public static void main(String[] args) {
-        
-    
-    Teacher t1=new Teacher();
-    
-    t1.setinformation("Emon","Male","011111927");
-    t1.display();
-    
+
+        Teacher t1 = new Teacher();
+
+        t1.setinformation("Emon", "Male", "011111927");
+        t1.display();
+
     }
 }
