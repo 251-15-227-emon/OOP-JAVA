@@ -1,6 +1,6 @@
 package Array;
 
-public class For_Each_Loop {
+public class For_Each_Loop {  
 
     public static void main(String[] args) {
 
