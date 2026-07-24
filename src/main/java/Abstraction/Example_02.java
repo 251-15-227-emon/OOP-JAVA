@@ -2,8 +2,6 @@ package Abstraction;
 
 abstract class Shape {
     
-    
-
     double d1, d2;
 
     Shape(double d1, double d2) {
@@ -15,8 +13,6 @@ abstract class Shape {
 
     abstract void area();
 
-    
-    
 }
 
 class Rectangle extends Shape {
