@@ -1,8 +1,6 @@
 package Method;
 
 public class Student {
-    
-    
 
     String name, university;
     int id;
