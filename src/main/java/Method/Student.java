@@ -21,6 +21,8 @@ public class Student {
         System.out.println("Name :" + name);
         System.out.println("ID :" + id);
         System.out.println("University :" + university);
+        
+        
 
     }
 
